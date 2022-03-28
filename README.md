@@ -6,20 +6,28 @@ And soon will be a Full-Stack Web Developer! 🎨
 I am heavily interested in coding and all the languages.
 
 ## 📋 Skills
-- [x] Python
-- [X] Linux
-- [X] HTML
-- [X] CSS
-- [ ] Javascript
-- [ ] Java
-- [ ] SQL
 
-| Language | Level |
-| ----------- | ----------- |
-| English | C2 |
-| Turkish | C2 |
-| Dutch   | A2 |
-| French  | A1 |
+<table>
+<tr><th> Development </th><th> Languages </th></tr>
+<tr><td>
+
+|Programming|
+|--|
+|Python|
+|Linux|
+|HTML/CSS|
+|Javascript|
+|SQL|
+|Git/Github|
+
+</td><td>
+
+|English|Turkish|Dutch|French| 
+|--|--|--|--|
+|C2|C2|A2|A2|
+
+</td></tr> 
+</table>
 
 ## 💬 Contact
 - You can personally contact me here: purplebox02@gmail.com
