@@ -40,4 +40,6 @@ I am heavily interested in coding and all the languages.
 - And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravenisaac)
 
 ## 📑 Stats
+![](https://komarev.com/ghpvc/?username=raven-isaac-finch&style=for-the-badge&color=orange)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Raven-Isaac-Finch&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="50%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raven-Isaac-Finch&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
