@@ -1,4 +1,4 @@
-# 👋 Hi, this is Raven
+# 👋 Hi, this is Batuhan aka Raven
 
 I am currently working on Front-End Development. <br>
 And soon will be a Full-Stack Web Developer! 🎨
