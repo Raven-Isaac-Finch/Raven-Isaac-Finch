@@ -42,4 +42,8 @@ I am heavily interested in coding and all the languages. And also gaming..
 ## 📑 Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=raven-isaac-finch&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raven-isaac-finch&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raven-isaac-finch&theme=tokyonight&border=61dafb&hide_border=true" alt="commit stats" width="49%" /> 
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-isaac-finch&layout=compact&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="33%"/>
+</p>
