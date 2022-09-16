@@ -1,9 +1,9 @@
-# 👋 Hi, this is Batuhan aka Raven
+# 👋 Hi, this is Batuhan aka Raven <img src="https://komarev.com/ghpvc/?username=raven-isaac-finch" alt="visitor counter" align="right" valign="center" height="40"/>
 
 I am currently working on Front-End Development. <br>
 And soon will be a Full-Stack Web Developer! 🎨
 
-I am heavily interested in coding and all the languages.
+I am heavily interested in coding and all the languages. And also gaming..
 
 ## 📋 Languages & Skills
 
@@ -40,6 +40,6 @@ I am heavily interested in coding and all the languages.
 - And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravenisaac)
 
 ## 📑 Stats
-![](https://komarev.com/ghpvc/?username=raven-isaac-finch&style=for-the-badge&color=orange)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raven-Isaac-Finch&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="50%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raven-Isaac-Finch&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=raven-isaac-finch&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raven-isaac-finch&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
