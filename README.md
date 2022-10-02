@@ -5,6 +5,9 @@ And soon will be a Full-Stack Web Developer! 🎨
 
 I am heavily interested in coding and all the languages. And also gaming..
 
+<strong>Check out my Personal Page:</strong>
+<a href="https://raven-isaac-finch.github.io/Portfolio-Page/">R.I.F Portfolio</a>
+
 ## 📋 Languages & Skills
 
 <table>
